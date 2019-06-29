@@ -1,0 +1,32 @@
+.fm-tag {
+    width:100px;
+    height:24px;
+    line-height:24px;
+    margin-bottom:15px;
+    margin-top:5px;
+    background-color:#393D49;
+}
+.fm-btn-normal {
+    background-color:#478cdc
+}
+
+.layui-tab-brief>.layui-tab-title .layui-this {
+    color: #393D49;
+}
+
+.layui-tab-brief>.layui-tab-more li.layui-this:after, .layui-tab-brief>.layui-tab-title .layui-this:after {
+    border-bottom-color: #393D49;
+}
+
+.layui-form-radio>i:hover, .layui-form-radioed>i {
+    color: #478cdc;
+}
+
+.layui-form-onswitch {
+    border-color: #478cdc;
+    background-color: #478cdc;
+}
+
+.layui-timeline-axis {
+    color: #478cdc;
+}
