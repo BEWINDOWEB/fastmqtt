@@ -4,6 +4,9 @@
 FastMqtt是一款开源的MQTT Web客户端，用于快速测试MQTT功能，双击浏览器打开，无需任何依赖，可以集成到Java等项目中去。
 </p>
 
+# 操作截图
+<img src="img/demo.gif" style="margin-bottom:8px;">
+
 # 相关信息
 基于：![基于Layui2](https://img.shields.io/badge/Layui-2-green.svg)
 ![基于Eclipse.paho1.1.0](https://img.shields.io/badge/Eclipse.paho-1.1.0-green.svg)
