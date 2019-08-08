@@ -359,7 +359,7 @@
             layer.msg('取消订阅前需要先连接',{icon: 2, offset:200});
             return;
         }
-        topic = $("#"+id).children("td:nth-child(2)")[0].innerText;
+        topic = $("#"+id).children("td:nth-child(2)").text();
         client.unsubscribe(topic, {
             onSuccess: onUnsubSucc,
             onFailure: onUnsubFail,
